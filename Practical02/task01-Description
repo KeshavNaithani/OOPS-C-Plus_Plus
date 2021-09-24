@@ -1,0 +1,6 @@
+Preprocessor Command : g++ -E code.cpp >> code.i
+
+The task of the preprocessor with #include is just to check whether the filename given in the statement is a valid file or not. If it is not a valid filename, it gives a "fatal error". 
+
+On using iostream.h instead of instead of iostream with #include, it gives "fatal error" as iostream.h doesn't exist and the further compilation is terminated.
+v
