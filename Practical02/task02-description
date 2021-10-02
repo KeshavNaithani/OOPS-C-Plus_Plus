@@ -1,3 +1,0 @@
-As per the description in task01, the preprocessor just checks for the validity of the filename, in task02, it doesn't give any error though it is known that for cout to get executed, we have to include iostream.
-
-The preprocessor doesn't care if the header files for certain in-built functions is included or not.
